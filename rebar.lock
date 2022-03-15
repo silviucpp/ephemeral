@@ -1,4 +1,4 @@
 [{<<"bucs">>,
-  {git,"git://github.com/G-Corp/bucs.git",
-       {ref,"042a7144b6729579c2d1a85eba475cbd70719484"}},
+  {git,"https://github.com/G-Corp/bucs.git",
+       {ref,"f72b4e50da2063dfe7a8c8b04a72d0b7e50ac7cd"}},
   0}].
